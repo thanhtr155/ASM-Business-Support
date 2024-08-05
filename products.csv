@@ -1,0 +1,51 @@
+ProductID,ProductName,Description,Category,UnitPrice
+1,Wireless Headphones,"High-quality wireless headphones with noise-cancelling technology and up to 20 hours of battery life.",Electronics,49.99
+2,Cordless Drill,"Powerful 20V cordless drill with two-speed transmission and LED light.",Tools,79.99
+3,Cotton T-Shirt,"100% organic cotton t-shirt available in a variety of colors and sizes.",Apparel,39.99
+4,Laptop Backpack,"Durable and stylish laptop backpack with multiple compartments and padded straps.",Bags,99.99
+5,Kitchen Blender,"High-performance blender with 1000W motor and 6-blade assembly.",Home Appliances,59.99
+6,Outdoor Hiking Boots,"Waterproof and breathable hiking boots with rubber sole and ankle support.",Footwear,89.99
+7,Digital Camera,"Compact and lightweight digital camera with 20MP sensor and 4K video recording.",Electronics,199.99
+8,Patio Furniture Set,"Outdoor patio furniture set including a table, four chairs, and a parasol.",Home & Garden,249.99
+9,Fitness Tracker,"Smartwatch-style fitness tracker with heart rate monitoring and activity tracking.",Electronics,79.99
+10,Electric Toothbrush,"Rechargeable electric toothbrush with 2-minute timer and 2 brush heads.",Health & Beauty,49.99
+11,Portable Speaker,"Bluetooth-enabled portable speaker with 10W output and up to 12 hours of playtime.",Electronics,69.99
+12,Gardening Tool Set,"Set of essential gardening tools including a trowel, pruners, and a cultivator.",Home & Garden,39.99
+13,Smartwatch,"Multifunctional smartwatch with heart rate monitoring, GPS, and mobile app integration.",Electronics,199.99
+14,Hair Dryer,"Powerful 2000W hair dryer with three heat settings and a cool shot button.",Health & Beauty,39.99
+15,Gaming Mouse,"High-precision gaming mouse with programmable buttons and adjustable DPI settings.",Electronics,59.99
+16,Pressure Cooker,"Stainless steel pressure cooker with 6-quart capacity and 12 preset cooking programs.",Home Appliances,99.99
+17,Yoga Mat,"Extra-thick and non-slip yoga mat made from eco-friendly materials.",Sports & Fitness,29.99
+18,Water Bottle,"Reusable water bottle with built-in filter and insulation to keep drinks cold.",Home & Garden,24.99
+19,Desk Lamp,"Adjustable LED desk lamp with touch-sensitive controls and USB charging port.",Home Office,39.99
+20,Suitcase,"Durable and lightweight hardside suitcase with spinner wheels and TSA-approved lock.",Luggage,119.99
+21,Wireless Keyboard,"Slim and compact wireless keyboard with Bluetooth connectivity.",Electronics,39.99
+22,Electric Kettle,"Stainless steel electric kettle with 1.7-liter capacity and auto shut-off.",Home Appliances,49.99
+23,Denim Jeans,"Classic straight-leg denim jeans available in various washes and sizes.",Apparel,59.99
+24,Canvas Tote Bag,"Reusable and durable canvas tote bag with reinforced handles.",Bags,19.99
+25,Food Processor,"High-powered food processor with multiple attachments and speed settings.",Home Appliances,99.99
+26,Running Shoes,"Lightweight and cushioned running shoes with breathable mesh upper.",Footwear,79.99
+27,Digital Thermometer,"Accurate and fast-reading digital thermometer with fever alarm.",Health & Beauty,14.99
+28,Outdoor Fire Pit,"Steel fire pit with spark screen and poker for backyard gatherings.",Home & Garden,149.99
+29,Noise-Cancelling Headphones,"Wireless noise-cancelling headphones with up to 30 hours of battery life.",Electronics,199.99
+30,Rechargeable Flashlight,"Compact and powerful rechargeable LED flashlight with multiple brightness modes.",Tools,29.99
+31,Patio Umbrella,"Large 9-foot patio umbrella with tilt function and crank-operated opening.",Home & Garden,99.99
+32,Drone with Camera,"Compact and easy-to-fly drone with 1080p camera and advanced stabilization.",Electronics,149.99
+33,Makeup Brush Set,"Professional-quality makeup brush set with a variety of brush types.",Health & Beauty,29.99
+34,Solar Pathway Lights,"Set of 8 solar-powered pathway lights for outdoor illumination.",Home & Garden,39.99
+35,Electric Toothbrush Head,"Replacement brush heads for electric toothbrush, pack of 4.",Health & Beauty,19.99
+36,Wireless Charging Pad,"Qi-certified wireless charging pad for compatible smartphones and devices.",Electronics,29.99
+37,Insulated Lunch Box,"Durable and leak-proof insulated lunch box with multiple compartments.",Home & Garden,24.99
+38,Portable Power Bank,"High-capacity 20,000mAh power bank with dual USB charging ports.",Electronics,49.99
+39,Resistance Bands Set,"Set of 5 resistance bands with varying levels of resistance for strength training.",Sports & Fitness,29.99
+40,Desk Organizer Set,"Desk organizer set including a pen holder, paper tray, and other accessories.",Home Office,19.99
+41,Air Purifier,"Compact and quiet air purifier with HEPA filtration and multiple fan speeds.",Home Appliances,149.99
+42,Wireless Earbuds,"True wireless earbuds with Bluetooth 5.0, touch controls, and up to 24 hours of playtime.",Electronics,99.99
+43,Leather Business Tote,"Stylish and durable leather business tote bag with multiple compartments.",Bags,199.99
+44,Programmable Slow Cooker,"6-quart slow cooker with 20-hour programmable timer and keep-warm function.",Home Appliances,79.99
+45,Outdoor Patio Heater,"Propane-powered patio heater with adjustable heat settings and tip-over safety switch.",Home & Garden,199.99
+46,Fitness Smartwatch,"Multifunctional smartwatch with heart rate monitoring, GPS, and fitness tracking features.",Electronics,149.99
+47,High-Thread-Count Sheets,"100% cotton sheets with a 600 thread count for a luxurious sleeping experience.",Home & Garden,129.99
+48,Cordless Vacuum Cleaner,"Powerful and lightweight cordless vacuum cleaner with up to 45 minutes of runtime.",Home Appliances,199.99
+49,Portable Camping Stove,"Compact and lightweight camping stove with dual burners and windscreen.",Sports & Fitness,59.99
+50,Gel Memory Foam Mattress,"10-inch gel memory foam mattress with CertiPUR-US certified foam.",Home & Garden,499.99
